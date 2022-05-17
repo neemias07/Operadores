@@ -1,0 +1,22 @@
+
+img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
+h1{
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    font-size: 45px;
+    color: aliceblue;
+}
+.msgPrincipal{
+    position: absolute;
+    left: 32%;
+    top: 65%;
+    font-size: 25px;
+    color: aliceblue;
+}
